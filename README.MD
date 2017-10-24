@@ -1,4 +1,4 @@
-斗鱼弹幕Java客户端 moe.chigusa.DouyuDanmaku.DouyuDanmakuClient
+斗鱼弹幕Java客户端 DouyuDanmakuClient
 ==================================
 emmm，交个netty的作业  
 弹幕协议细节参考[斗鱼弹幕服务器第三方接入协议](http://dev-bbs.douyutv.com/forum.php?mod=viewthread&tid=399&extra=page%3D1)
